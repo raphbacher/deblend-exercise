@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - defaults
+  - openastronomy
+dependencies:
+  - python=3.6
+  - matplotlib
+  - numpy
+  - scipy=0.19.1
